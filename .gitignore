@@ -1,0 +1,67 @@
+﻿# ===== Python =====
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.venv/
+venv/
+env/
+
+# ===== Zalo session / cache (NGUY HIỂM) =====
+.cache/
+.local/
+*.session
+*.cookies
+zlapi_cache/
+qr_login_*.png
+
+# ===== Secrets =====
+.env
+.env.*
+config.py
+seting.json
+*.key
+token.txt
+credentials.json
+
+# ===== Data người dùng =====
+data/
+database/
+active_threads.json
+device_ids.json
+data_mybot.json
+duyetboxdata.json
+user_usage.json
+leaderboard*.json
+locked_users.json
+rank-info.json
+autoreply_config.json
+message_sets.json
+products.json
+used_riddles.json
+
+# ===== File rác / media =====
+*.log
+*.bak
+*.rar
+*.zip
+*.7z
+*.mp4
+*.aac
+*.jpg
+*.jpeg
+*.png
+*.ttf
+*.otf
+temp_images/
+background/
+font/
+Image/
+rao/
+spam/
+
+# ===== OS =====
+Thumbs.db
+desktop.ini
+.DS_Store
