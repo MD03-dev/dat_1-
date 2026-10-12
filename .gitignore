@@ -65,3 +65,15 @@ spam/
 Thumbs.db
 desktop.ini
 .DS_Store
+
+# ===== Cache runtime =====
+modules/cache/
+modules/cache_zingmp3/
+modules/func_replyai/autoreply_state.json
+modules/func_war/war_txt/
+modules/shared_files/
+
+# ===== File rác, backup =====
+* (1).py
+*.bak
+*backup*

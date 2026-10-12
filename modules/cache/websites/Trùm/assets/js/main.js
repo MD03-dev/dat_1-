@@ -1,1 +1,0 @@
-document.getElementById('btn').addEventListener('click', ()=>{alert('Website đã được tạo thành công!');});
