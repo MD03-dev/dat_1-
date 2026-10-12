@@ -94,3 +94,9 @@ modules/shared_files/
 modules/up Avatar.py
 modules/uptime gif.py
 data/smsv2.py
+
+# ===== File tạm tao/mày tạo để dump code =====
+code_part_*.txt
+code_full.txt
+code_small.txt
+code_dump.txt
