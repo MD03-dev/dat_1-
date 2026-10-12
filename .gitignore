@@ -93,3 +93,4 @@ modules/shared_files/
 # ===== File tên có dấu cách (rác) =====
 modules/up Avatar.py
 modules/uptime gif.py
+data/smsv2.py
